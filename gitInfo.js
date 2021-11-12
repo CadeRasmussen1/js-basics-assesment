@@ -39,7 +39,7 @@ let gitHubDefinition = ('gitHub is a cloud service where you upload and download
 
 //CODE HERE
 
-let init = ('initializes a local repository in the current folder' && 'git init')
+let init = ('initializes a local repository in the current folder')
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -49,7 +49,7 @@ let init = ('initializes a local repository in the current folder' && 'git init'
 
 //CODE HERE
 
-let clone = ('copys a repo from gitHub and puts it onto you machine' && 'git clone REPO_URL')
+let clone = ('copys a repo from gitHub and puts it onto you machine')
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -59,7 +59,7 @@ let clone = ('copys a repo from gitHub and puts it onto you machine' && 'git clo
 
 //CODE HERE
 
-let status = ('gives you information of the current repo' && 'git status')
+let status = ('gives you information of the current repo')
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -69,7 +69,7 @@ let status = ('gives you information of the current repo' && 'git status')
 
 //CODE HERE
 
-let add = ('adds files to be tracked' && 'git add .')
+let add = ('adds files to be tracked')
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -79,7 +79,7 @@ let add = ('adds files to be tracked' && 'git add .')
 
 //CODE HERE
 
-let commit = ('creates a snapshot of the files your currently tracking' && 'git commit -m (comment)')
+let commit = ('creates a snapshot of the files your currently tracking')
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -89,4 +89,4 @@ let commit = ('creates a snapshot of the files your currently tracking' && 'git 
 
 //CODE HERE
 
-let push = ('pushes local files to gitHub' && 'git push REPO_NAME')
+let push = ('pushes local files to gitHub')
